@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <records>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Felt, Adrienne Porter</author>
+                    <author>Ha, Elizabeth</author>
+                    <author>Egelman, Serge</author>
+                    <author>Haney, Ariel</author>
+                    <author>Chin, Erika</author>
+                    <author>Wagner, David</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Android permissions</title>
+                <secondary-title>Proceedings of the Eighth Symposium on Usable Privacy and Security - SOUPS '12</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Proceedings of the Eighth Symposium on Usable Privacy and Security - SOUPS '12</full-title>
+            </periodical>
+            <pages>1</pages>
+            <keywords>
+                <keyword>android</keyword>
+                <keyword>least privilege</keyword>
+                <keyword>permissions</keyword>
+            </keywords>
+            <dates>
+                <year>2012</year>
+            </dates>
+            <isbn>9781450315326</isbn>
+            <electronic-resource-num>10.1145/2335356.2335360</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://felt-androidpermission-2011.PDF</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://dl.acm.org/citation.cfm?doid=2335356.2335360</url>
+                </web-urls>
+            </urls>
+            <abstract>Android provides third-party applications with an extensive API that includes access to phone hardware, settings, and user data. Access to privacy- and security-relevant parts of the API is controlled with an install-time application permis- sion system. We study Android applications to determine whether Android developers follow least privilege with their permission requests. We built Stowaway, a tool that detects overprivilege in compiled Android applications. Stowaway determines the set of API calls that an application uses and then maps those API calls to permissions. We used auto- mated testing tools on the Android API in order to build the permission map that is necessary for detecting overpriv- ilege. We apply Stowaway to a set of 940 applications and find that about one-third are overprivileged. We investigate the causes of overprivilege and find evidence that developers are trying to follow least privilege but sometimes fail due to insufficient API documentation:</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Chandramohan, Mahinthan</author>
+                    <author>Tan, Hee Beng Kuan</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Detection of mobile malware in the wild</title>
+                <secondary-title>Computer</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Computer</full-title>
+            </periodical>
+            <pages>65-71</pages>
+            <volume>45</volume>
+            <issue>9</issue>
+            <keywords>
+                <keyword>mobile malware detection</keyword>
+                <keyword>mobile security</keyword>
+                <keyword>smartphone protection</keyword>
+            </keywords>
+            <dates>
+                <year>2012</year>
+            </dates>
+            <isbn>0018-9162</isbn>
+            <electronic-resource-num>10.1109/MC.2012.36</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Detection of Mobile Malware_2012.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Smartphones have become an essential part of human life and its usage has grown exponentially in the past few years. The growth of smartphone usage can be directly linked to its ability to support third-party applications that are offered through online application markets. Due to its worldwide adoption and widespread popularity, the mobile malware attacks also growing at an alarming rate (http://bit.ly/sbtujI). Malware authors make use of third-party applications to inject malicious content into smartphones and thus compromise phone " s security. In response, mobile security research has become critical and focused on protecting smartphones from malware attacks and other security threats. In this paper, we present a survey of techniques that are used to detect mobile malware in the wild and discuss the limitations of current techniques and provide some tips to protect smartphones from potential security threats.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Rastogi, V</author>
+                    <author>Chen, Y</author>
+                    <author>Jiang, X</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>DroidChameleon: Evaluating Android Anti-malware against Transformation Attacks</title>
+                <secondary-title>NORTHWESTERN University</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>NORTHWESTERN University</full-title>
+            </periodical>
+            <pages>329-334</pages>
+            <issue>March</issue>
+            <keywords>
+                <keyword>android</keyword>
+                <keyword>anti-malware</keyword>
+                <keyword>malware</keyword>
+                <keyword>mobile</keyword>
+            </keywords>
+            <dates>
+                <year>2013</year>
+            </dates>
+            <isbn>9781450317672</isbn>
+            <electronic-resource-num>10.1145/2484313.2484355</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://droidchameleon-rastogi-2013.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Mobile malware threats (e.g., on Android) have recently become a real concern. In this paper, we evaluate the state-of-the-art com-mercial mobile anti-malware products for Android and test how resistant they are against various common obfuscation techniques (even with known malware). Such an evaluation is important for not only measuring the available defense against mobile malware threats but also proposing effective, next-generation solutions. We developed DroidChameleon, a systematic framework with various transformation techniques, and used it for our study. Our results on ten popular commercial anti-malware applications for Android are worrisome: none of these tools is resistant against common mal-ware transformation techniques. Moreover, the transformations are simple in most cases and anti-malware tools make little effort to provide transformation-resilient detection. Finally, in the light of our results, we propose possible remedies for improving the cur-rent state of malware detection on mobile devices.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Fedler, Rafael</author>
+                    <author>Kulicke, Marcel</author>
+                    <author>Schütte, Julian</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Native Code Execution Control for Attack Mitigation on Android</title>
+                <secondary-title>Proceedings of the 3rd ACM Workshop on Security and Privacy in Smartphones &amp; Mobile Devices (SPSM)</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Proceedings of the 3rd ACM Workshop on Security and Privacy in Smartphones &amp; Mobile Devices (SPSM)</full-title>
+            </periodical>
+            <pages>15-20</pages>
+            <keywords>
+                <keyword>android</keyword>
+                <keyword>exploit mitigation</keyword>
+                <keyword>malware</keyword>
+                <keyword>mobile security</keyword>
+            </keywords>
+            <dates>
+                <year>2013</year>
+            </dates>
+            <isbn>9781450324915</isbn>
+            <electronic-resource-num>10.1145/2516760.2516765</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://native-fedler-2013.pdf</url>
+                    <url>internal-pdf://Fedler, Kulicke, Schütte - 2013 - Native Code Execution Control for Attack Mitigation on Android.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>They modify the OS to mitigate root explots. Binary: chmod +x (syscall, libc, and bin) is restricted to system UIDs OR permission. Libraries: restrict loading to system ones OR executable bit OR permission.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>La Polla, Mariantonietta</author>
+                    <author>Martinelli, Fabio</author>
+                    <author>Sgandurra, Daniele</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>A Survey on Security for Mobile Devices</title>
+                <secondary-title>IEEE Communications Surveys &amp; Tutorials</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IEEE Communications Surveys &amp; Tutorials</full-title>
+            </periodical>
+            <pages>446-471</pages>
+            <volume>15</volume>
+            <issue>1</issue>
+            <keywords>
+                <keyword>Bluetooth</keyword>
+                <keyword>IDS-based models</keyword>
+                <keyword>Intrusion Detection</keyword>
+                <keyword>Malware</keyword>
+                <keyword>Mobile Malware</keyword>
+                <keyword>Mobile Security</keyword>
+                <keyword>Mobile communication</keyword>
+                <keyword>Network security</keyword>
+                <keyword>Smart phones</keyword>
+                <keyword>Trojan horses</keyword>
+                <keyword>Trusted Mobile</keyword>
+                <keyword>communication channels</keyword>
+                <keyword>invasive software</keyword>
+                <keyword>malware writers</keyword>
+                <keyword>mobile devices</keyword>
+                <keyword>mobile services</keyword>
+                <keyword>security</keyword>
+                <keyword>smart phones</keyword>
+                <keyword>telecommunication channels</keyword>
+                <keyword>telecommunication security</keyword>
+                <keyword>ubiquitous computing</keyword>
+                <keyword>ubiquitous services</keyword>
+            </keywords>
+            <dates>
+                <year>2013</year>
+            </dates>
+            <isbn>1553-877X</isbn>
+            <electronic-resource-num>10.1109/SURV.2012.013012.00028</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://A Survey on Security for Mobile Devices_2013.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6170530%5Cnhttp://www.scopus.com/inward/record.url?eid=2-s2.0-84873712223&amp;partnerID=tZOtx3y1</url>
+                </web-urls>
+            </urls>
+            <abstract>Nowadays, mobile devices are an important part of our everyday lives since they enable us to access a large variety of ubiquitous services. In recent years, the availability of these ubiquitous and mobile services has significantly increased due to the different form of connectivity provided by mobile devices, such as GSM, GPRS, Bluetooth and Wi-Fi. In the same trend, the number and typologies of vulnerabilities exploiting these services and communication channels have increased as well. Therefore, smartphones may now represent an ideal target for malware writers. As the number of vulnerabilities and, hence, of attacks increase, there has been a corresponding rise of security solutions proposed by researchers. Due to the fact that this research field is immature and still unexplored in depth, with this paper we aim to provide a structured and comprehensive overview of the research on security solutions for mobile devices. This paper surveys the state of the art on threats, vulnerabilities and security solutions over the period 2004-2011, by focusing on high-level attacks, such those to user applications. We group existing approaches aimed at protecting mobile devices against these classes of attacks into different categories, based upon the detection principles, architectures, collected data and operating systems, especially focusing on IDS-based models and tools. With this categorization we aim to provide an easy and concise view of the underlying model adopted by each approach.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Xiong, Ping</author>
+                    <author>Wang, Xiaofeng</author>
+                    <author>Niu, Wenjia</author>
+                    <author>Zhu, Tianqing</author>
+                    <author>Li, Gang</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Android malware detection with contrasting permission patterns</title>
+                <secondary-title>China Communications</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>China Communications</full-title>
+            </periodical>
+            <pages>1-14</pages>
+            <volume>11</volume>
+            <issue>8</issue>
+            <keywords>
+                <keyword>Android</keyword>
+                <keyword>classification</keyword>
+                <keyword>contrast set</keyword>
+                <keyword>malware detection</keyword>
+                <keyword>permission pattern</keyword>
+            </keywords>
+            <dates>
+                <year>2014</year>
+            </dates>
+            <electronic-resource-num>10.1109/CC.2014.6911083</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Android Malware Detection with Contrasting_2014.pdf</url>
+                </pdf-urls>
+            </urls>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Rastogi, Vaibhav</author>
+                    <author>Chen, Yan</author>
+                    <author>Jiang, Xuxian</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Catch me if you can: Evaluating android anti-malware against transformation attacks</title>
+                <secondary-title>IEEE Transactions on Information Forensics and Security</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IEEE Transactions on Information Forensics and Security</full-title>
+            </periodical>
+            <pages>99-108</pages>
+            <volume>9</volume>
+            <issue>1</issue>
+            <keywords>
+                <keyword>Android</keyword>
+                <keyword>Anti-malware</keyword>
+                <keyword>Malware</keyword>
+                <keyword>Mobile</keyword>
+            </keywords>
+            <dates>
+                <year>2014</year>
+            </dates>
+            <isbn>1556-6013</isbn>
+            <electronic-resource-num>10.1109/TIFS.2013.2290431</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Catch Me If You Can_Evaluating Android_2014.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Mobile malware threats (e.g., on Android) have recently become a real concern. In this paper, we evaluate the state-of-the-art commercial mobile anti-malware products for Android and test how resistant they are against various common obfuscation techniques (even with known malware). Such an evaluation is important for not only measuring the available defense against mobile malware threats, but also proposing effective, next-generation solutions. We developed DroidChameleon, a systematic framework with various transformation techniques, and used it for our study. Our results on 10 popular commercial anti-malware applications for Android are worrisome: none of these tools is resistant against common malware transformation techniques. In addition, a majority of them can be trivially defeated by applying slight transformation over known malware with little effort for malware authors. Finally, in light of our results, we propose possible remedies for improving the current state of malware detection on mobile devices.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Suarez-Tangil, G.</author>
+                    <author>Tapiador, J.E.</author>
+                    <author>Peris-Lopez</author>
+                    <author>Ribagorda, P.</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Detection and Analysis of Malware for Smart Devices</title>
+                <secondary-title>IEEE Commun. Surv. Tutor</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IEEE Commun. Surv. Tutor</full-title>
+            </periodical>
+            <pages>961-987</pages>
+            <volume>16</volume>
+            <issue>2</issue>
+            <keywords />
+            <dates>
+                <year>2014</year>
+            </dates>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Evolution, Detection and Analysis of Malware for_2014.pdf</url>
+                </pdf-urls>
+            </urls>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Wang, Wei</author>
+                    <author>Wang, Xing</author>
+                    <author>Feng, Dawei</author>
+                    <author>Liu, Jiqiang</author>
+                    <author>Han, Zhen</author>
+                    <author>Zhang, Xiangliang</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Exploring permission-induced risk in android applications for malicious application detection</title>
+                <secondary-title>IEEE Transactions on Information Forensics and Security</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IEEE Transactions on Information Forensics and Security</full-title>
+            </periodical>
+            <pages>1869-1882</pages>
+            <volume>9</volume>
+            <issue>11</issue>
+            <keywords>
+                <keyword>Android security</keyword>
+                <keyword>Android system</keyword>
+                <keyword>Intrusion detection</keyword>
+                <keyword>Malware detection</keyword>
+                <keyword>Permission usage analysis</keyword>
+            </keywords>
+            <dates>
+                <year>2014</year>
+            </dates>
+            <isbn>1556-6013 VO - 9</isbn>
+            <electronic-resource-num>10.1109/TIFS.2014.2353996</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Exploring Permission-Induced Risk in Android_2014.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Android has been a major target of malicious applications (malapps). How to detect and keep the malapps out of the app markets is an ongoing challenge. One of the central design points of Android security mechanism is permission control that restricts the access of apps to core facilities of devices. However, it imparts a significant responsibility to the app developers with regard to accurately specifying the requested permissions and to the users with regard to fully understanding the risk of granting certain combinations of permissions. Android permissions requested by an app depict the app's behavioral patterns. In order to help understanding Android permissions, in this paper, we explore the permission-induced risk in Android apps on three levels in a systematic manner. First, we thoroughly analyze the risk of an individual permission and the risk of a group of collaborative permissions. We employ three feature ranking methods, namely, mutual information, correlation coefficient, and T-test to rank Android individual permissions with respect to their risk. We then use sequential forward selection as well as principal component analysis to identify risky permission subsets. Second, we evaluate the usefulness of risky permissions for malapp detection with support vector machine, decision trees, as well as random forest. Third, we in depth analyze the detection results and discuss the feasibility as well as the limitations of malapp detection based on permission requests. We evaluate our methods on a very large official app set consisting of 310 926 benign apps and 4868 real-world malapps and on a third-party app sets. The empirical results show that our malapp detectors built on risky permissions give satisfied performance (a detection rate as 94.62% with a false positive rate as 0.6%), catch the malapps' essential patterns on violating permission access regulations, and are universally applicable to unknown malapps (detection rate as 74.03%).</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Shao, Yuru</author>
+                    <author>Luo, Xiapu</author>
+                    <author>Qian, Chenxiong</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>RootGuard: Protecting rooted android phones</title>
+                <secondary-title>Computer</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Computer</full-title>
+            </periodical>
+            <pages>32-40</pages>
+            <volume>47</volume>
+            <issue>6</issue>
+            <keywords>
+                <keyword>Android</keyword>
+                <keyword>RootGuard</keyword>
+                <keyword>malware</keyword>
+                <keyword>root privilege</keyword>
+                <keyword>root-management systems</keyword>
+                <keyword>security</keyword>
+                <keyword>smartphone security</keyword>
+            </keywords>
+            <dates>
+                <year>2014</year>
+            </dates>
+            <isbn>0018-9162 VO  - 47</isbn>
+            <electronic-resource-num>10.1109/MC.2014.163</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://RootGuard_2014.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Though popular for achieving full operation functionality, rooting Android phones opens these devices to significant security threats. RootGuard offers protection from malware with root privileges while providing user flexibility and control. The Web...</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Kamesh</author>
+                    <author>Sakthi Priya, N.</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Security enhancement of authenticated RFID generation</title>
+                <secondary-title>International Journal of Applied Engineering Research</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>International Journal of Applied Engineering Research</full-title>
+            </periodical>
+            <pages>5968-5974</pages>
+            <volume>9</volume>
+            <issue>22</issue>
+            <keywords>
+                <keyword>Authentication</keyword>
+                <keyword>Privacy</keyword>
+                <keyword>Protocol design and analysis</keyword>
+                <keyword>RFID</keyword>
+                <keyword>Security</keyword>
+            </keywords>
+            <dates>
+                <year>2014</year>
+            </dates>
+            <isbn>1111010110111</isbn>
+            <electronic-resource-num>10.1002/sec</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://An effective behavior-based Android malware_2015.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>To protect user privacy and data security in cloud computing, a secure k-nearest neighbor computation-enhanced scheme on encrypted database has been proposed by Wong, Cheung, Kao and Mamoulis. The scheme is proven resistant to the known-plaintext attack. We show that contrary to claims, the enhanced asymmetric scalar-product-preserving encryption cannot resist known-plaintext attack by directly solving a secret key from a set of known plaintext–ciphertext pairs.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>McWilliams, Gavin</author>
+                    <author>Sezer, Sakir</author>
+                    <author>Yerima, Suleiman Y.</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Analysis of Bayesian classification-based approaches for Android malware detection</title>
+                <secondary-title>IET Information Security</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IET Information Security</full-title>
+            </periodical>
+            <pages>25-36</pages>
+            <volume>8</volume>
+            <issue>1</issue>
+            <keywords />
+            <dates>
+                <year>2014</year>
+            </dates>
+            <isbn>1751-8709</isbn>
+            <electronic-resource-num>10.1049/iet-ifs.2013.0095</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Analysis of Bayesian classification-based approaches_2014.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2013.0095</url>
+                </web-urls>
+            </urls>
+            <abstract>Mobile malware has been growing in scale and complexity spurred by the unabated uptake of smartphones worldwide. Android is fast becoming the most popular mobile platform resulting in sharp increase in malware targeting the platform. Additionally, Android malware is evolving rapidly to evade detection by traditional signature-based scanning. Despite current detection measures in place, timely discovery of new malware is still a critical issue. This calls for novel approaches to mitigate the growing threat of zero-day Android malware. Hence, the authors develop and analyse proactive machine-learning approaches based on Bayesian classification aimed at uncovering unknown Android malware via static analysis. The study, which is based on a large malware sample set of majority of the existing families, demonstrates detection capabilities with high accuracy. Empirical results and comparative analysis are presented offering useful insight towards development of effective static-analytic Bayesian classification-based solutions for detecting unknown Android malware.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Feizollah, Ali</author>
+                    <author>Anuar, Nor Badrul</author>
+                    <author>Salleh, Rosli</author>
+                    <author>Wahab, Ainuddin Wahid Abdul</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>A review on feature selection in mobile malware detection</title>
+                <secondary-title>Digital Investigation</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Digital Investigation</full-title>
+            </periodical>
+            <pages>22-37</pages>
+            <volume>13</volume>
+            <issue>March</issue>
+            <keywords>
+                <keyword>Android</keyword>
+                <keyword>Feature selection</keyword>
+                <keyword>Mobile malware</keyword>
+                <keyword>Mobile operating system</keyword>
+                <keyword>Review paper</keyword>
+            </keywords>
+            <dates>
+                <year>2015</year>
+            </dates>
+            <publisher>Elsevier Ltd</publisher>
+            <isbn>978-1-4673-2358-1</isbn>
+            <electronic-resource-num>10.1016/j.diin.2015.02.001</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Feizollah et al. - 2015 - A review on feature selection in mobile malware detection.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://dx.doi.org/10.1016/j.diin.2015.02.001</url>
+                </web-urls>
+            </urls>
+            <abstract>The widespread use of mobile devices in comparison to personal computers has led to a new era of information exchange. The purchase trends of personal computers have started decreasing whereas the shipment of mobile devices is increasing. In addition, the increasing power of mobile devices along with portability characteristics has attracted the attention of users. Not only are such devices popular among users, but they are favorite targets of attackers. The number of mobile malware is rapidly on the rise with malicious activities, such as stealing users data, sending premium messages and making phone call to premium numbers that users have no knowledge. Numerous studies have developed methods to thwart such attacks. In order to develop an effective detection system, we have to select a subset of features from hundreds of available features. In this paper, we studied 100 research works published between 2010 and 2014 with the perspective of feature selection in mobile malware detection. We categorize available features into four groups, namely, static features, dynamic features, hybrid features and applications metadata. Additionally, we discuss datasets used in the recent research studies as well as analyzing evaluation measures utilized.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Chen, Jian</author>
+                    <author>Alalfi, Manar H.</author>
+                    <author>Dean, Thomas R.</author>
+                    <author>Zou, Ying</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Detecting Android Malware Using Clone Detection</title>
+                <secondary-title>Journal of Computer Science and Technology</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Journal of Computer Science and Technology</full-title>
+            </periodical>
+            <pages>942-956</pages>
+            <volume>30</volume>
+            <issue>5</issue>
+            <keywords>
+                <keyword>Android</keyword>
+                <keyword>clone detection</keyword>
+                <keyword>malware</keyword>
+            </keywords>
+            <dates>
+                <year>2015</year>
+            </dates>
+            <isbn>1139001515</isbn>
+            <electronic-resource-num>10.1007/s11390-015-1573-7</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Detecting Android Malware Using Clone Detection_2015.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Android is currently one of the most popular smartphone operating systems. However, Android has the largest share of global mobile malware and significant public attention has been brought to the security issues of Android. In this paper, we investigate the use of a clone detector to identify known Android malware. We collect a set of Android applications known to contain malware and a set of benign applications. We extract the Java source code from the binary code of the applications and use NiCad, a near-miss clone detector, to find the classes of clones in a small subset of the malicious applications. We then use these clone classes as a signature to find similar source files in the rest of the malicious applications. The benign collection is used as a control group. In our evaluation, we successfully decompile more than 1 000 malicious apps in 19 malware families. Our results show that using a small portion of malicious applications as a training set can detect 95% of previously known malware with very low false positives and high accuracy at 96.88%. Our method can effectively and reliably pinpoint malicious applications that belong to certain malware families.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Dini, Gianluca</author>
+                    <author>Martinelli, Fabio</author>
+                    <author>Matteucci, Ilaria</author>
+                    <author>Petrocchi, Marinella</author>
+                    <author>Saracino, Andrea</author>
+                    <author>Sgandurra, Daniele</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Risk analysis of Android applications: A user-centric solution</title>
+                <secondary-title>Future Generation Computer Systems</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Future Generation Computer Systems</full-title>
+            </periodical>
+            <keywords>
+                <keyword>Android security</keyword>
+                <keyword>Malware</keyword>
+                <keyword>Risk analysis</keyword>
+                <keyword>Usability</keyword>
+                <keyword>User experience and expectations</keyword>
+                <keyword>User-centric devices</keyword>
+            </keywords>
+            <dates>
+                <year>2015</year>
+            </dates>
+            <publisher>Elsevier B.V.</publisher>
+            <electronic-resource-num>10.1016/j.future.2016.05.035</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Risk analysis of Android applications_ A user-centric solution_2016.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://dx.doi.org/10.1016/j.future.2016.05.035</url>
+                </web-urls>
+            </urls>
+            <abstract>Android applications (apps) pose many risks to their users, e.g., by including code that may threaten user privacy or system integrity. Most of the current security countermeasures for detecting dangerous apps show some weaknesses, mainly related to users' understanding and acceptance. Hence, users would benefit from an effective but simple technique that indicates whether an app is safe or risky to be installed. In this paper, we present MAETROID (Multi-criteria App Evaluator of TRust for AndrOID), a framework to evaluate the trustworthiness of Android apps, i.e., the amount of risk they pose to users, e.g., in terms of confidentiality and integrity. MAETROID performs a multi-criteria analysis of an app at deploy-time and returns a single easy-to-understand evaluation of the app's risk level (i.e., Trusted, Medium Risk, and High Risk), aimed at driving the user decision on whether or not installing a new app. The criteria include the set of requested permissions and a set of metadata retrieved from the marketplace, denoting the app quality and popularity. We have tested MAETROID on a set of 11,000 apps both coming from Google Play and from a database of known malicious apps. The results show a good accuracy in both identifying the malicious apps and in terms of false positive rate.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Cen, Lei</author>
+                    <author>Gates, Christoher S.</author>
+                    <author>Si, Luo</author>
+                    <author>Li, Ninghui</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>A Probabilistic Discriminative Model for Android Malware Detection with Decompiled Source Code</title>
+                <secondary-title>IEEE Transactions on Dependable and Secure Computing</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IEEE Transactions on Dependable and Secure Computing</full-title>
+            </periodical>
+            <pages>400-412</pages>
+            <volume>12</volume>
+            <issue>4</issue>
+            <keywords>
+                <keyword>Android</keyword>
+                <keyword>discriminative model</keyword>
+                <keyword>machine learning</keyword>
+                <keyword>malicious application</keyword>
+            </keywords>
+            <dates>
+                <year>2015</year>
+            </dates>
+            <isbn>1545-5971 VO - PP</isbn>
+            <electronic-resource-num>10.1109/TDSC.2014.2355839</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://A Probabilistic Discriminative Model_2015.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Mobile devices are an important part of our everyday lives, and the Android platform has become a market leader. In recent years a number of approaches for Android malware detection have been proposed, using permissions, source code analysis, or dynamic analysis. In this paper, we propose to use a probabilistic discriminative model based on regularized logistic regression for Android malware detection. Through extensive experimental evaluation, we demonstrate that it can generate probabilistic outputs with highly accurate classification results. In particular, we propose to use Android API calls as features extracted from decompiled source code, and analyze and explore issues in feature granularity, feature representation, feature selection, and regularization. We show that the probabilistic discriminative model also works well with permissions, and substantially outperforms the state-of-the-art methods for Android malware detection with application permissions. Furthermore, the discriminative learning model achieves the best detection results by combining both decompiled source code and application permissions. To the best of our knowledge, this is the first research that proposes probabilistic discriminative model for Android malware detection with a thorough study of desired representation of decompiled source code and is the first research work for Android malware detection task that combines both analysis of decompiled source code and application permissions.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Crussell, Jonathan</author>
+                    <author>Gibler, Clint</author>
+                    <author>Chen, Hao</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>AnDarwin: Scalable Detection of Android Application Clones Based on Semantics</title>
+                <secondary-title>IEEE Transactions on Mobile Computing</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IEEE Transactions on Mobile Computing</full-title>
+            </periodical>
+            <pages>2007-2019</pages>
+            <volume>14</volume>
+            <issue>10</issue>
+            <keywords>
+                <keyword>Program analysis</keyword>
+                <keyword>clustering</keyword>
+                <keyword>mobile applications</keyword>
+                <keyword>plagiarism detection</keyword>
+            </keywords>
+            <dates>
+                <year>2015</year>
+            </dates>
+            <isbn>9783642402029</isbn>
+            <electronic-resource-num>10.1109/TMC.2014.2381212</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://AnDarwin_Scalable Detection of Android_2015.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Smartphones rely on their vibrant application markets; however, plagiarism threatens the long-term health of these markets. We present a scalable approach to detecting similar Android apps based on their semantic information. We implement our approach in a tool called AnDarwin and evaluate it on 265,359 apps collected from 17 markets including Google Play and numerous third-party markets. In contrast to earlier approaches, AnDarwin has four advantages: it avoids comparing apps pairwise, thus greatly improving its scalability; it analyzes only the app code and does not rely on other information � such as the app�s market, signature, or description � thus greatly increasing its reliability; it can detect both full and partial app similarity; and it can automatically detect library code and remove it from the similarity analysis.We present two use cases for AnDarwin: finding similar apps by different developers (�clones�) and similar apps from the same developer (�rebranded�). In ten hours, AnDarwin detected at least 4,295 apps that are the victims of cloning and 36,106 rebranded apps. Additionally, AnDarwin detects similar code that is injected into many apps, which may indicate the spread of malware. Our evaluation demonstrates AnDarwin�s ability to accurately detect similar apps on a large scale.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Lindorfer, Martina</author>
+                    <author>Neugschwandtner, Matthias</author>
+                    <author>Weichselbaum, Lukas</author>
+                    <author>Fratantonio, Yanick</author>
+                    <author>Veen, Victor Van Der</author>
+                    <author>Platzer, Christian</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>ANDRUBIS - 1,000,000 Apps Later: A View on Current Android Malware Behaviors</title>
+                <secondary-title>Proceedings - 3rd International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security, BADGERS 2014</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Proceedings - 3rd International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security, BADGERS 2014</full-title>
+            </periodical>
+            <pages>3-17</pages>
+            <keywords>
+                <keyword>Android</keyword>
+                <keyword>Data Collection</keyword>
+                <keyword>Dynamic Analysis</keyword>
+                <keyword>Malware</keyword>
+                <keyword>Measurements</keyword>
+                <keyword>Static Analysis</keyword>
+            </keywords>
+            <dates>
+                <year>2016</year>
+            </dates>
+            <isbn>9781479983087</isbn>
+            <electronic-resource-num>10.1109/BADGERS.2014.7</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://andrubis-lindorfer-2014.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Anubis is a dynamic malware analysis platform that executes submitted binaries in a controlled environment. To perform the analysis, the system monitors the invocation of important Windows API calls and system services, it records the network traffic, and it tracks data flows. For each submission, reports are generated that provide comprehensive reports about the activities of the binary under analysis. Anubis receives malware samples through a public web interface and a number of feeds from security organizations and anti-malware companies. Because the samples are collected from a wide range of users, the collected samples represent a comprehensive and diverse mix of malware found in the wild. In this paper, we aim to shed light on common malware behaviors. To this end, we evaluate the Anubis analysis results for almost one million malware samples, study trends and evolution of malicious behaviors over a period of almost two years, and examine the influence of code polymorphism on malware statistics.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Rashidi, Bahman</author>
+                    <author>Fung, Carol</author>
+                    <author>Vu, Tam</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Android fine-grained permission control system with real-time expert recommendations</title>
+                <secondary-title>Pervasive and Mobile Computing</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Pervasive and Mobile Computing</full-title>
+            </periodical>
+            <pages>62-77</pages>
+            <volume>32</volume>
+            <keywords>
+                <keyword>Crowdsourcing</keyword>
+                <keyword>Permission</keyword>
+                <keyword>Recommendation</keyword>
+                <keyword>Smartphone</keyword>
+            </keywords>
+            <dates>
+                <year>2016</year>
+            </dates>
+            <publisher>Elsevier B.V.</publisher>
+            <electronic-resource-num>10.1016/j.pmcj.2016.04.013</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Android fine-grained permission control system with real-time expert_2016.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://dx.doi.org/10.1016/j.pmcj.2016.04.013</url>
+                </web-urls>
+            </urls>
+            <abstract>In current Android architecture design, users have to decide whether an app is safe to use or not. Expert users can make savvy decisions to prevent unnecessary privacy breach. However, inexperienced users may not be able to decide correctly. To assist inexperienced users to make a right permission granting decisions, we propose RecDroid. RecDroid is a crowdsourcing recommendation framework that facilitates a user-help-user environment regarding smartphone permission control. In this framework, the responses from expert users are aggregated and recommended to other users. We implement our prototype on Android platform and evaluated the system through simulation and real user study.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Balachandran, Vivek</author>
+                    <author>Sufatrio</author>
+                    <author>Tan, Darell J.J.</author>
+                    <author>Thing, Vrizlynn L.L.</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Control flow obfuscation for Android applications</title>
+                <secondary-title>Computers and Security</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Computers and Security</full-title>
+            </periodical>
+            <pages>72-93</pages>
+            <volume>61</volume>
+            <keywords>
+                <keyword>Android</keyword>
+                <keyword>Application security</keyword>
+                <keyword>Mobile security</keyword>
+                <keyword>Reverse engineering</keyword>
+                <keyword>Software obfuscation</keyword>
+            </keywords>
+            <dates>
+                <year>2016</year>
+            </dates>
+            <publisher>Elsevier Ltd</publisher>
+            <isbn>0167-4048</isbn>
+            <electronic-resource-num>10.1016/j.cose.2016.05.003</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Control flow obfuscation for android applications_2016.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://dx.doi.org/10.1016/j.cose.2016.05.003</url>
+                </web-urls>
+            </urls>
+            <abstract>Android apps are vulnerable to reverse engineering, which makes app tampering and repackaging relatively easy. While obfuscation is widely known to make reverse engineering harder, complex and effective control flow obfuscations by rearranging Android bytecode instructions have not been implemented in various Android obfuscation tools. This paper presents our control-flow obfuscation techniques for Android apps at the Dalvik bytecode level. Our three proposed schemes go beyond simple control-flow transformations employed by existing Android obfuscators, and make it difficult for static analysis to determine the actual app control flows. To realize this, we also address a previously-unsolved register-type conflict problem that can be raised by the verifier module of the Android runtime system by means of a type separation technique. Our analysis and experimentation show that the schemes can offer effective obfuscation with reasonable performance and size overheads. Combined with the existing data and layout obfuscation techniques, our schemes can offer attractive measures to hinder reverse engineering and code analysis on Android apps, and help safeguard Android app developers' heavy investment in their apps.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Wang, Wei</author>
+                    <author>Li, Yuanyuan</author>
+                    <author>Wang, Xing</author>
+                    <author>Liu, Jiqiang</author>
+                    <author>Zhang, Xiangliang</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Detecting Android malicious apps and categorizing benign apps with ensemble of classifiers</title>
+                <secondary-title>Future Generation Computer Systems</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Future Generation Computer Systems</full-title>
+            </periodical>
+            <keywords>
+                <keyword>Android security</keyword>
+                <keyword>Classification</keyword>
+                <keyword>Ensemble learning</keyword>
+                <keyword>Intrusion detection</keyword>
+                <keyword>Malware detection</keyword>
+                <keyword>Static analysis</keyword>
+            </keywords>
+            <dates>
+                <year>2016</year>
+            </dates>
+            <publisher>Elsevier B.V.</publisher>
+            <electronic-resource-num>10.1016/j.future.2017.01.019</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Detecting android malicious apps and categorizing benign apps with_2017.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://dx.doi.org/10.1016/j.future.2017.01.019</url>
+                </web-urls>
+            </urls>
+            <abstract>Android platform has dominated the markets of smart mobile devices in recent years. The number of Android applications (apps) has seen a massive surge. Unsurprisingly, Android platform has also become the primary target of attackers. The management of the explosively expansive app markets has thus become an important issue. On the one hand, it requires effectively detecting malicious applications (malapps) in order to keep the malapps out of the app market. On the other hand, it needs to automatically categorize a big number of benign apps so as to ease the management, such as correcting an app's category falsely designated by the app developer. In this work, we propose a framework to effectively and efficiently manage a big app market in terms of detecting malapps and categorizing benign apps. We extract 11 types of static features from each app to characterize the behaviors of the app, and employ the ensemble of multiple classifiers, namely, Support Vector Machine (SVM), K-Nearest Neighbor (KNN), Naive Bayes (NB), Classification and Regression Tree (CART) and Random Forest (RF), to detect malapps and to categorize benign apps. An alarm will be triggered if an app is identified as malicious. Otherwise, the benign app will be identified as a specific category. We evaluate the framework on a large app set consisting of 107,327 benign apps as well as 8,701 malapps. The experimental results show that our method achieves the accuracy of 99.39% in the detection of malapps and achieves the best accuracy of 82.93% in the categorization of benign apps.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Ju, Seung hwan</author>
+                    <author>Seo, Hee suk</author>
+                    <author>Kwak, Jin</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Research on android malware permission pattern using permission monitoring system</title>
+                <secondary-title>Multimedia Tools and Applications</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Multimedia Tools and Applications</full-title>
+            </periodical>
+            <pages>14807-14817</pages>
+            <volume>75</volume>
+            <issue>22</issue>
+            <keywords>
+                <keyword>Application analysis</keyword>
+                <keyword>Application permission</keyword>
+                <keyword>Mobile security</keyword>
+            </keywords>
+            <dates>
+                <year>2016</year>
+            </dates>
+            <electronic-resource-num>10.1007/s11042-016-3273-x</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Research on android malware permission pattern_2016.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Mobile anti-viruses used mainly are the reverse engineering-based analysis and the sandbox-based analysis. There methods can analyze in detail. But, they take a lot of time and have a one-time payout. This study investigates the permissions requested by Android applications, and the possibility of identifying suspicious applications based only on information presented to the user before an application is downloaded The pattern analysis is based on a smaller data set consisting of confirmed malicious applications. The method is evaluated based on its ability to recognize malicious potential in the analyzed applications. This study is a service-based malware analysis, it will be based on the mobile security study.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Suarez-Tangil, Guillermo</author>
+                    <author>Tapiador, Juan E.</author>
+                    <author>Lombardi, Flavio</author>
+                    <author>Pietro, Roberto Di</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Alterdroid: Differential Fault Analysis of Obfuscated Smartphone Malware</title>
+                <secondary-title>IEEE Transactions on Mobile Computing</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IEEE Transactions on Mobile Computing</full-title>
+            </periodical>
+            <pages>789-802</pages>
+            <volume>15</volume>
+            <issue>4</issue>
+            <keywords>
+                <keyword>Computer security</keyword>
+                <keyword>Malware</keyword>
+                <keyword>Mobile computing</keyword>
+            </keywords>
+            <dates>
+                <year>2016</year>
+            </dates>
+            <isbn>1536-1233</isbn>
+            <electronic-resource-num>10.1109/TMC.2015.2444847</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://ALTERDROID_Differential Fault Analysis of_2016.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Malware for smartphones has rocketed over the last years. Market operators face the challenge of keeping their stores free from malicious apps, a task that has become increasingly complex as malware developers are progressively using advanced techniques to defeat malware detection tools. One such technique commonly observed in recent malware samples consists of hiding and obfuscating modules containing malicious functionality in places that static analysis tools overlook (e.g., within data objects). In this paper, we describe ALTERDROID, a dynamic analysis approach for detecting such hidden or obfuscated malware components distributed as parts of an app package. The key idea in ALTERDROID consists of analyzing the behavioral differences between the original app and a number of automatically generated versions of it, where a number of modifications (faults) have been carefully injected. Observable differences in terms of activities that appear or vanish in the modified app are recorded, and the resulting differential signature is analyzed through a pattern-matching process driven by rules that relate different types of hidden functionalities with patterns found in the signature. A thorough justification and a description of the proposed model are provided. The extensive experimental results obtained by testing ALTERDROID over relevant apps and malware samples support the quality and viability of our proposal.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Song, Jun</author>
+                    <author>Han, Chunling</author>
+                    <author>Wang, Kaixin</author>
+                    <author>Zhao, Jian</author>
+                    <author>Ranjan, Rajiv</author>
+                    <author>Wang, Lizhe</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>An integrated static detection and analysis framework for android</title>
+                <secondary-title>Pervasive and Mobile Computing</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Pervasive and Mobile Computing</full-title>
+            </periodical>
+            <pages>15-25</pages>
+            <volume>32</volume>
+            <keywords>
+                <keyword>Android security</keyword>
+                <keyword>Malware detection</keyword>
+                <keyword>Static detection</keyword>
+                <keyword>Threat degree</keyword>
+            </keywords>
+            <dates>
+                <year>2016</year>
+            </dates>
+            <publisher>Elsevier B.V.</publisher>
+            <electronic-resource-num>10.1016/j.pmcj.2016.03.003</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://An integrated static detection and analysis framework for android_2016.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://dx.doi.org/10.1016/j.pmcj.2016.03.003</url>
+                </web-urls>
+            </urls>
+            <abstract>The security and privacy issues of android system have attracted a lot of attention from both industry and academia in recent years. Static detection is one typical method to analyze malicious code. However, existing single static detection method can introduce high false alarm rate and is only appropriate for a limited scope. In this paper, we propose an integrated static detection framework, which consists of four layers of filtering mechanisms, that is, the message digest (MD5) values, the combination of malicious permissions, the dangerous permissions, and the dangerous intention, respectively. An intuitive threat-degree model is proposed especially on dangerous permissions detection. Furthermore, we implement a prototype system ASE and validate its feasibility, performance and scalability. A comprehensive evaluation shows that the proposed framework has obvious advantages especially in efficiency, granularity, layers, and correctness.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Conti, Mauro</author>
+                    <author>Mancini, Luigi Vincenzo</author>
+                    <author>Spolaor, Riccardo</author>
+                    <author>Verde, Nino Vincenzo</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>Analyzing Android Encrypted Network Traffic to Identify User Actions</title>
+                <secondary-title>IEEE Transactions on Information Forensics and Security</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IEEE Transactions on Information Forensics and Security</full-title>
+            </periodical>
+            <pages>114-125</pages>
+            <volume>11</volume>
+            <issue>1</issue>
+            <keywords />
+            <dates>
+                <year>2016</year>
+            </dates>
+            <isbn>4000005057</isbn>
+            <electronic-resource-num>10.1109/TIFS.2015.2478741</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Analyzing Android Encrypted Network Traffic_2016.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Mobile devices can be maliciously exploited to violate the privacy of people. In most attack scenarios, the adversary takes the local or remote control of the mobile device, by leveraging a vulnerability of the system, hence sending back the collected information to some remote web service. In this paper, we consider a different adversary, who does not interact actively with the mobile device, but he is able to eavesdrop the network traffic of the device from the network side (e.g., controlling a Wi-Fi access point). The fact that the network traffic is often encrypted makes the attack even more challenging. In this paper, we investigate to what extent such an external attacker can identify the specific actions that a user is performing on her mobile apps. We design a system that achieves this goal using advanced machine learning techniques. We built a complete implementation of this system, and we also run a thorough set of experiments, which show that our attack can achieve accuracy and precision higher than 95%, for most of the considered actions. We compared our solution with the three state-of-the-art algorithms, and confirming that our system outperforms all these direct competitors.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Feizollah, Ali</author>
+                    <author>Anuar, Nor Badrul</author>
+                    <author>Salleh, Rosli</author>
+                    <author>Suarez-Tangil, Guillermo</author>
+                    <author>Furnell, Steven</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>AndroDialysis: Analysis of Android Intent Effectiveness in Malware Detection</title>
+                <secondary-title>Computers and Security</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Computers and Security</full-title>
+            </periodical>
+            <pages>121-134</pages>
+            <volume>65</volume>
+            <issue>March</issue>
+            <keywords>
+                <keyword>Android</keyword>
+                <keyword>Intent</keyword>
+                <keyword>Mobile malware</keyword>
+                <keyword>Smartphone security</keyword>
+                <keyword>Static analysis</keyword>
+            </keywords>
+            <dates>
+                <year>2017</year>
+            </dates>
+            <publisher>Elsevier Ltd</publisher>
+            <electronic-resource-num>10.1016/j.cose.2016.11.007</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://Feizollah et al. - 2017 - AndroDialysis Analysis of Android Intent Effectiveness in Malware Detection.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://dx.doi.org/10.1016/j.cose.2016.11.007</url>
+                </web-urls>
+            </urls>
+            <abstract>The wide popularity of Android systems has been accompanied by increase in the number of malware targeting these systems. This is largely due to the open nature of the Android framework that facilitates the incorporation of third-party applications running on top of any Android device. Inter-process communication is one of the most notable features of the Android framework as it allows the reuse of components across process boundaries. This mechanism is used as gateway to access different sensitive services in the Android framework. In the Android platform, this communication system is usually driven by a late runtime binding messaging object known as Intent. In this paper, we evaluate the effectiveness of Android Intents (explicit and implicit) as a distinguishing feature for identifying malicious applications. We show that Intents are semantically rich features that are able to encode the intentions of malware when compared to other well-studied features such as permissions. We also argue that this type of feature is not the ultimate solution. It should be used in conjunction with other known features. We conducted experiments using a dataset containing 7406 applications that comprise 1846 clean and 5560 infected applications. The results show detection rate of 91% using Android Intent against 83% using Android permission. Additionally, experiment on combination of both features results in detection rate of 95.5%.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Fan, Ming</author>
+                    <author>Liu, Jun</author>
+                    <author>Wang, Wei</author>
+                    <author>Li, Haifei</author>
+                    <author>Tian, Zhenzhou</author>
+                    <author>Liu, Ting</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>DAPASA: Detecting Android Piggybacked Apps Through Sensitive Subgraph Analysis</title>
+                <secondary-title>IEEE Transactions on Information Forensics and Security</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IEEE Transactions on Information Forensics and Security</full-title>
+            </periodical>
+            <pages>1772-1785</pages>
+            <volume>12</volume>
+            <issue>8</issue>
+            <keywords>
+                <keyword>Piggybacked apps</keyword>
+                <keyword>malware detection</keyword>
+                <keyword>sensitive API</keyword>
+                <keyword>sensitive subgraph</keyword>
+                <keyword>static analysis</keyword>
+            </keywords>
+            <dates>
+                <year>2017</year>
+            </dates>
+            <electronic-resource-num>10.1109/TIFS.2017.2687880</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://DAPASA Detecting Android Piggybacked Apps_2017.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>© 2017 IEEE.With the exponential growth of smartphone adoption, malware attacks on smartphones have resulted in serious threats to users, especially those on popular platforms, such as Android. Most Android malware is generated by piggybacking malicious payloads into benign applications (apps), which are called piggybacked apps. In this paper, we propose DAPASA, an approach to detect Android piggybacked apps through sensitive subgraph analysis. Two assumptions are established to reflect the different invocation patterns of sensitive APIs in the injected malicious payloads (rider) of a piggybacked app and in its host app (carrier). With these two assumptions, DAPASA generates a sensitive subgraph (SSG) to profile the most suspicious behavior of an app. Five features are constructed from SSG to depict the invocation patterns. The five features are fed into the machine learning algorithms to detect whether the app is piggybacked or benign. DAPASA is evaluated on a large real-world data set consisting of 2551 piggybacked apps and 44 921 popular benign apps. Extensive evaluation results demonstrate that the proposed approach exhibits an impressive detection performance compared with that of three baseline approaches even with only five numeric features. Furthermore, the proposed approach can complement permission-based approaches and API-based approaches with the combination of our five features from a new perspective of the invocation structure.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Tong, Fei</author>
+                    <author>Yan, Zheng</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>A hybrid approach of mobile malware detection in Android</title>
+                <secondary-title>Journal of Parallel and Distributed Computing</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Journal of Parallel and Distributed Computing</full-title>
+            </periodical>
+            <pages>22-31</pages>
+            <volume>103</volume>
+            <keywords>
+                <keyword>Android</keyword>
+                <keyword>Malware detection</keyword>
+                <keyword>Pattern match</keyword>
+                <keyword>System call</keyword>
+            </keywords>
+            <dates>
+                <year>2017</year>
+            </dates>
+            <publisher>Elsevier Inc.</publisher>
+            <electronic-resource-num>10.1016/j.jpdc.2016.10.012</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://A hybrid approach of mobile malware detection in Android_2017.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://dx.doi.org/10.1016/j.jpdc.2016.10.012</url>
+                </web-urls>
+            </urls>
+            <abstract>Android security incidents occurred frequently in recent years. This motivates us to study mobile app security, especially in Android open mobile operating system. In this paper, we propose a novel hybrid approach for mobile malware detection by adopting both dynamic analysis and static analysis. We collect execution data of sample malware and benign apps using a net_link technology to generate patterns of system calls related to file and network access. Furthermore, we build up a malicious pattern set and a normal pattern set by comparing the patterns of malware and benign apps with each other. For detecting an unknown app, we use a dynamic method to collect its system calling data. We then compare them with both the malicious and normal pattern sets offline in order to judge the unknown app. Based on the test on a set of mobile malware and benign apps, we found that our approach achieves better detection success rate than some methods using either static analysis or dynamic analysis. What is more, the proposed approach is generic, which can detect different types of malware effectively. Its detection accuracy can be further improved since the pattern sets can be automatically optimized through self-learning.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Rudd, Ethan M.</author>
+                    <author>Rozsa, Andras</author>
+                    <author>Günther, Manuel</author>
+                    <author>Boult, Terrance E.</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>A Survey of Stealth Malware Attacks, Mitigation Measures, and Steps Toward Autonomous Open World Solutions</title>
+                <secondary-title>IEEE Communications Surveys and Tutorials</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IEEE Communications Surveys and Tutorials</full-title>
+            </periodical>
+            <pages>1145-1172</pages>
+            <volume>19</volume>
+            <issue>2</issue>
+            <keywords>
+                <keyword>Stealth</keyword>
+                <keyword>anomaly detection</keyword>
+                <keyword>extreme value theory</keyword>
+                <keyword>intrusion detection</keyword>
+                <keyword>machine learning</keyword>
+                <keyword>malware</keyword>
+                <keyword>novelty detection</keyword>
+                <keyword>open set</keyword>
+                <keyword>outlier detection</keyword>
+                <keyword>recognition</keyword>
+                <keyword>rootkits</keyword>
+            </keywords>
+            <dates>
+                <year>2017</year>
+            </dates>
+            <electronic-resource-num>10.1109/COMST.2016.2636078</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://A Survey of Stealth Malware Attacks, Mitigation_2017.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Development of generic and autonomous anti-malware solutions is becoming increasingly vital as the deployment of stealth malware continues to increase at an alarming rate. In this paper, we survey malicious stealth technologies as well as existing autonomous countermeasures. Our findings suggest that while machine learning offers promising potential for generic and autonomous solutions, both at the network level and at the host level, several flawed assumptions inherent to most recognition algorithms prevent a direct mapping between the stealth malware recognition problem and a machine learning solution. The most notable of these flawed assumptions is the closed world assumption: that no sample belonging to a class outside of a static training set will appear at query time. We present a formalized adaptive open world framework for stealth malware recognition, relating it mathematically to research from other machine learning domains.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Yan, Ping</author>
+                    <author>Yan, Zheng</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>A survey on dynamic mobile malware detection</title>
+                <secondary-title>Software Quality Journal</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Software Quality Journal</full-title>
+            </periodical>
+            <pages>1-29</pages>
+            <keywords>
+                <keyword>Classification algorithm</keyword>
+                <keyword>Dynamic malware detection</keyword>
+                <keyword>Evaluation criteria</keyword>
+                <keyword>Mobile malware</keyword>
+                <keyword>Security threats</keyword>
+            </keywords>
+            <dates>
+                <year>2017</year>
+            </dates>
+            <publisher>Software Quality Journal</publisher>
+            <electronic-resource-num>10.1007/s11219-017-9368-4</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://A survey on dynamic mobile malware detection_2017.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>The outstanding advances of mobile devices stimulate their wide usage. Since mobile devices are coupled with third-party applications, lots of security and privacy problems are induced. However, current mobile malware detection and analysis technologies are still imperfect, ineffective, and incomprehensive. Due to the specific characteristics of mobile devices such as limited resources, constant network connectivity, user activities and location sensing, and local communication capability, mobile malware detection faces new challenges, especially on dynamic runtime malware detection. Many intrusions or attacks could happen after a mobile app is installed or executed. The literature still expects practical and effective dynamic malware detection approaches. In this paper, we give a thorough survey on dynamic mobile malware detection. We first introduce the definition, evolution, classification, and security threats of mobile malware. Then, we summarize a number of criteria and performance evaluation measures of mobile malware detection. Furthermore, we compare, analyze, and comment on existing mobile malware detection methods proposed in recent years based on evaluation criteria and measures. Finally, we figure out open issues in this research field and motivate future research directions.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Sadeghi, Alireza</author>
+                    <author>Bagheri, Hamid</author>
+                    <author>Garcia, Joshua</author>
+                    <author>Malek, Sam</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>A Taxonomy and Qualitative Comparison of Program Analysis Techniques for Security Assessment of Android Software</title>
+                <secondary-title>IEEE Transactions on Software Engineering</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>IEEE Transactions on Software Engineering</full-title>
+            </periodical>
+            <pages>492-530</pages>
+            <volume>43</volume>
+            <issue>6</issue>
+            <keywords>
+                <keyword>Taxonomy and survey</keyword>
+                <keyword>android platform</keyword>
+                <keyword>program analysis</keyword>
+                <keyword>security assessment</keyword>
+            </keywords>
+            <dates>
+                <year>2017</year>
+            </dates>
+            <isbn>0098-5589 VO  - 43</isbn>
+            <electronic-resource-num>10.1109/TSE.2016.2615307</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://A Taxonomy and Qualitative Comparison of_2017.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>In parallel with the meteoric rise of mobile software, we are witnessing an alarming escalation in the number and sophistication of the security threats targeted at mobile platforms, particularly Android, as the dominant platform. While existing research has made significant progress towards detection and mitigation of Android security, gaps and challenges remain. This paper contributes a comprehensive taxonomy to classify and characterize the state-of-the-art research in this area. We have carefully followed the systematic literature review process, and analyzed the results of more than 300 research papers, resulting in the most comprehensive and elaborate investigation of the literature in this area of research. The systematic analysis of the research literature has revealed patterns, trends, and gaps in the existing literature, and underlined key challenges and opportunities that will shape the focus of future research efforts. © 2016 IEEE.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Ruiz-Heras, A.</author>
+                    <author>García-Teodoro, P.</author>
+                    <author>Sánchez-Casado, L.</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>ADroid: anomaly-based detection of malicious events in Android platforms</title>
+                <secondary-title>International Journal of Information Security</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>International Journal of Information Security</full-title>
+            </periodical>
+            <pages>371-384</pages>
+            <volume>16</volume>
+            <issue>4</issue>
+            <keywords>
+                <keyword>Anomaly detection</keyword>
+                <keyword>Behavior</keyword>
+                <keyword>Malicious event</keyword>
+                <keyword>Malware</keyword>
+                <keyword>Mobile device</keyword>
+                <keyword>Security</keyword>
+            </keywords>
+            <dates>
+                <year>2017</year>
+            </dates>
+            <publisher>Springer Berlin Heidelberg</publisher>
+            <electronic-resource-num>10.1007/s10207-016-0333-1</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://ADroid_anomaly-based detection of malicious events in Android_2017.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url></url>
+                </web-urls>
+            </urls>
+            <abstract>As mobile devices become more and more adopted by users for daily personal and professional activities, associated security risks and impact to them also increase. Although there are a number of proposals aimed at fighting against such incidents, the topic still remains challenging. This paper presents ADroid, a novel security tool for Android platforms with three main distinguishing characteristics. First, three groups of features are monitored over time: interfaces usage, application-related and communication-related features. Second, a lightweight anomaly-based detection procedure is performed over these features in order to determine the occurrence of unexpected abnormal activities. Third, the user can also create specific white/black lists to indicate in an easy way certain allowed/undesired activities which, if so, should trigger an alarm by the supervision system. ADroid has been implemented in a real environment and evaluated through experimentation. The detection accuracy exhibited and the resources consumption involved in its operation show the goodness and promising capabilities of the system.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Wang, Chundong</author>
+                    <author>Li, Zhiyuan</author>
+                    <author>Gong, Liangyi</author>
+                    <author>Mo, Xiuliang</author>
+                    <author>Yang, Hong</author>
+                    <author>Zhao, Yi</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>An Android malicious code detection method based on improved DCA algorithm</title>
+                <secondary-title>Entropy</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Entropy</full-title>
+            </periodical>
+            <pages>1-15</pages>
+            <volume>19</volume>
+            <issue>2</issue>
+            <keywords>
+                <keyword>Android malware</keyword>
+                <keyword>DCA</keyword>
+                <keyword>Dalvik disassembly sequence</keyword>
+                <keyword>Danger theory</keyword>
+                <keyword>Static detection</keyword>
+                <keyword>Suspicious API</keyword>
+            </keywords>
+            <dates>
+                <year>2017</year>
+            </dates>
+            <electronic-resource-num>10.3390/e19020065</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://An Android Malicious Code Detection Method Based_2017.pdf</url>
+                </pdf-urls>
+            </urls>
+            <abstract>Recently, Android malicious code has increased dramatically and the technology of reinforcement is increasingly powerful. Due to the development of code obfuscation and polymorphic deformation technology, the current Android malicious code static detection method whose feature selected is the semantic of application source code can not completely extract malware’s code features. The Android malware static detection methods whose features used are only obtained from the AndroidManifest.xml file are easily affected by useless permissions. Therefore, there are some limitations in current Android malware static detection methods. The current Android malware dynamic detection algorithm is mostly required to customize the system or needs system root permissions. Based on the Dendritic Cell Algorithm (DCA), this paper proposes an Android malware algorithm that has a higher detection rate, does not need to modify the system, and reduces the impact of code obfuscation to a certain degree. This algorithm is applied to an Android malware detection method based on oriented Dalvik disassembly sequence and application interface (API) calling sequence. Through the designed experiments, the effectiveness of this method is verified for the detection of Android malware.</abstract>
+        </record>
+        <record>
+            <database name="My Collection.enl" path="My Collection.enl">My Collection.enl</database>
+            <ref-type name="Journal Article">0</ref-type>
+            <contributors>
+                <authors>
+                    <author>Feizollah, Ali</author>
+                    <author>Anuar, Nor Badrul</author>
+                    <author>Salleh, Rosli</author>
+                    <author>Suarez-Tangil, Guillermo</author>
+                    <author>Furnell, Steven</author>
+                </authors>
+            </contributors>
+            <titles>
+                <title>AndroDialysis: Analysis of Android Intent Effectiveness in Malware Detection</title>
+                <secondary-title>Computers and Security</secondary-title>
+            </titles>
+            <periodical>
+                <full-title>Computers and Security</full-title>
+            </periodical>
+            <pages>121-134</pages>
+            <volume>65</volume>
+            <keywords>
+                <keyword>Android</keyword>
+                <keyword>Intent</keyword>
+                <keyword>Mobile malware</keyword>
+                <keyword>Smartphone security</keyword>
+                <keyword>Static analysis</keyword>
+            </keywords>
+            <dates>
+                <year>2017</year>
+            </dates>
+            <publisher>Elsevier Ltd</publisher>
+            <electronic-resource-num>10.1016/j.cose.2016.11.007</electronic-resource-num>
+            <urls>
+                <pdf-urls>
+                    <url>internal-pdf://AndroDialysis_Analysis of Android Intent Effectiveness in Malware_2017.pdf</url>
+                </pdf-urls>
+                <web-urls>
+                    <url>http://dx.doi.org/10.1016/j.cose.2016.11.007</url>
+                </web-urls>
+            </urls>
+            <abstract>The wide popularity of Android systems has been accompanied by increase in the number of malware targeting these systems. This is largely due to the open nature of the Android framework that facilitates the incorporation of third-party applications running on top of any Android device. Inter-process communication is one of the most notable features of the Android framework as it allows the reuse of components across process boundaries. This mechanism is used as gateway to access different sensitive services in the Android framework. In the Android platform, this communication system is usually driven by a late runtime binding messaging object known as Intent. In this paper, we evaluate the effectiveness of Android Intents (explicit and implicit) as a distinguishing feature for identifying malicious applications. We show that Intents are semantically rich features that are able to encode the intentions of malware when compared to other well-studied features such as permissions. We also argue that this type of feature is not the ultimate solution. It should be used in conjunction with other known features. We conducted experiments using a dataset containing 7406 applications that comprise 1846 clean and 5560 infected applications. The results show detection rate of 91% using Android Intent against 83% using Android permission. Additionally, experiment on combination of both features results in detection rate of 95.5%.</abstract>
+        </record>
+    </records>
+</xml>
